@@ -14,6 +14,7 @@ const siteMetadata = {
   github: 'https://github.com/majickdave',
   twitter: 'https://twitter.com/majickdave',
   linkedin: 'https://www.linkedin.com/in/datascienceinsight',
+  jekyll: 'https://majickdave.github.io',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
